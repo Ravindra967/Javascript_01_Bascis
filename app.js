@@ -1,0 +1,12 @@
+let a = 3;
+let b = 5;
+console.log(a + b);
+console.log("Sum:", a + b);
+console.log("Difference:", b - a);  
+console.log("Product:", a * b);
+console.log("Quotient:", b / a);
+console.log("Remainder:", b % a);
+console.log("Exponentiation:", a ** 2);
+console.log("Increment a:", ++a);
+console.log("Decrement b:", --b);
+console.log("Final values - a:", a, "b:", b);
