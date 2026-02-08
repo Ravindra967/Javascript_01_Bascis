@@ -10,3 +10,12 @@ console.log("Exponentiation:", a ** 2);
 console.log("Increment a:", ++a);
 console.log("Decrement b:", --b);
 console.log("Final values - a:", a, "b:", b);
+
+const date = new Date();
+console.log(date);
+
+const dateString = date.toDateString();
+console.log(dateString);
+
+const timeString = date.toTimeString();
+console.log(timeString);
