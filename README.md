@@ -4,4 +4,7 @@ Variables - let const var
 condtional statemets
 objects
 array
+Strings
+Funtios
+Arrow Function
 
