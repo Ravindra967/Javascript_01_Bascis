@@ -7,4 +7,6 @@ array
 Strings
 Funtios
 Arrow Function
+Tempalte Strings
+Dafault function parameter
 
