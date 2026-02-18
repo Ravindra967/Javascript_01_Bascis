@@ -9,4 +9,4 @@ Funtios
 Arrow Function
 Tempalte Strings
 Dafault function parameter
-
+sync and async 
