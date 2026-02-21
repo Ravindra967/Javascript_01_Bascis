@@ -9,4 +9,5 @@ Funtios
 Arrow Function
 Tempalte Strings
 Dafault function parameter
-sync and async 
+1.sync and async 
+Map reduce
