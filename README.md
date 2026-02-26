@@ -11,3 +11,4 @@ Tempalte Strings
 Dafault function parameter
 1.sync and async 
 Map reduce
+Filter
