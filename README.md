@@ -54,5 +54,7 @@ for  of loop: it is iterbel the characters  in the string, object etc..
 
 let name = 'hello';
 for (let char of name){
+ console.log(char);
+ }
     console.log(char)
 }
