@@ -58,3 +58,5 @@ for (let char of name){
  }
     console.log(char)
 }
+
+#for each it is iterarate by using the function
