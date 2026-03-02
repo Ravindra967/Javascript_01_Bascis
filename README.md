@@ -60,3 +60,4 @@ for (let char of name){
 }
 
 #for each it is iterarate by using the function
+#Hooks #props #component
