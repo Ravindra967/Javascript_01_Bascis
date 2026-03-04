@@ -91,3 +91,15 @@ That’s it.
 	numbers.forEach(function(num, index, arr) {
 	  console.log(arr);
 	});
+
+“What is forEach?”
+
+	Answer:
+	
+	forEach is an array method in JavaScript that executes a function once for each element in the array. It is mainly used to perform operations like printing, updating values, or calling functions for each item.
+	
+	🚀 Final Real Life Meaning (Super Simple)
+	
+	forEach() means:
+	
+	👉 “Take each item from the list and do something.”
