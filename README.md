@@ -103,3 +103,61 @@ That’s it.
 	forEach() means:
 	
 	👉 “Take each item from the list and do something.”
+
+
+	TCS   DT20267905879
+
+forEach:
+
+	let numbers = [1,2,3,4,5];
+	
+	let sum = 0;
+	
+	function adder(number){
+		sum += number;
+	}
+	
+	numbers.forEach(adder);
+	console.log(sum);
+
+
+Map() function:
+
+	The map() method create a new array populated with the results of calling a provided function on element in the calling array.
+	
+	let numbers = [1,2,3,4,5];
+	let double = numbers.map((num) => num*2);
+	console.log(double);
+	
+	let numbers = [1,2,3,4];
+	let multi = numbers.map((num) => num**10);
+	console.log(mutli);
+	
+	const numbers = [12,14,55];
+	
+	function myFunction(num){
+		return num*10;
+	}
+	
+	const newArr = numbers.map(myFunction);
+	console.log(newArr);
+	
+
+instead forEach we using the map() function.
+
+
+
+filter():
+	
+	The filter() method is a built-in array method in javascript that allows you to create a new array containing elements that pass a certain condition. It provides a clean and concise way to filter out elements from an array based on a specified criteria.
+	
+	const names = ["ravi", "Rahul", "Ashok"];
+	
+	console.log(names.filter((name) => name.Length > 4));
+
+
+
+
+
+
+
