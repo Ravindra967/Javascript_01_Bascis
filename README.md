@@ -156,6 +156,11 @@ filter():
 	console.log(names.filter((name) => name.Length > 4));
 
 
+reduce();
+
+	Reduce keyword is used to reduce 
+
+
 
 
 
