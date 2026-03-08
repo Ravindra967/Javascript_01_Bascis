@@ -159,6 +159,7 @@ filter():
 reduce();
 
 	Reduce keyword is used to reduce 
+Asyc, Await
 
 
 
