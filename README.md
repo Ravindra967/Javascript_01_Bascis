@@ -158,8 +158,16 @@ filter():
 
 reduce();
 
-	Reduce keyword is used to reduce 
-Asyc, Await
+	reduce method applies to the reducer function to each element of an array, accumalting the result into a single value.
+
+every(): 
+
+	every method tests weather all elements in the array pass condition specified by th provided callback function it return true for every element and flase if any element fails the condition.
+
+some():
+
+	some method tests weather at least one element in the array passes the condition speified by the provided callback function. It retruns true if the callback function returns  true for at least one element and false if no element passes the condition.
+
 
 
 
