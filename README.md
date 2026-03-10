@@ -168,6 +168,10 @@ some():
 
 	some method tests weather at least one element in the array passes the condition speified by the provided callback function. It retruns true if the callback function returns  true for at least one element and false if no element passes the condition.
 
+emoji();
+
+	 it will be created by normally.
+
 
 
 
