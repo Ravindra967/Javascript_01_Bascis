@@ -171,6 +171,16 @@ some():
 emoji();
 
 	 it will be created by normally.
+symbol():
+
+	create a symbol provide a value of "foo"
+	chek the type of that symbol
+	create empty object
+	store symbol as the property to that object
+
+DOM
+	When a web page is loaded, the browser creates a Documnet Object Model of the page.
+
 
 
 
