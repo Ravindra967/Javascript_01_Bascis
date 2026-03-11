@@ -13,10 +13,46 @@ DOM
 Accessing the DOM
 
 getELementByTagName
+
+        console.log(document.getElementByTagName("h1));
+        length:
+                 console.log(document.getElementByTagName("h1).length);
+
+        
+         
 getElementByID
 getElementByClassName
 querySelector
+         document.querySelector("h1") select classname by using dot (.className)
+         id selector by using => #  #idname
 querySelectorAll
+
+        document.querySelector("");
+
+
+1. Why we use document.querySelector()
+
+In JavaScript, document represents the entire HTML page loaded in the browser.
+
+So when we write:
+
+document.querySelector(".title")
+
+innerText
+        const p = document.querySelector("p");
+        console.log(p.innerText);
+, textcontent, innerHtml
+
+
+attributes
+
+ href
+ value
+ type
+ getAttribute(attrName)
+ setSttribute(attrName, value)
+
+        
   
 
   
