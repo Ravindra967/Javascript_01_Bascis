@@ -46,11 +46,18 @@ innerText
 
 attributes
 
- href
- value
- type
- getAttribute(attrName)
- setSttribute(attrName, value)
+         href
+         value
+         type
+         getAttribute(attrName)
+         setSttribute(attrName, value)
+
+
+6. What is Event Handling?
+
+        Event handling means:
+        
+        Detect an event and run some code
 
         
   
