@@ -181,6 +181,8 @@ symbol():
 DOM
 	When a web page is loaded, the browser creates a Documnet Object Model of the page.
 
+	HTML code convert into 
+
 
 
 
