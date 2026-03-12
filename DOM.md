@@ -220,6 +220,9 @@ querySelectorAll
         mouseup
         mousemove
 
+
+        Those state change by using the toggle
+
         
   
 
