@@ -186,6 +186,8 @@ DOM
 event
 addeventlistenr()
 
+single thread and multi thread
+
 
 
 
