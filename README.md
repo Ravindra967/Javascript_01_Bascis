@@ -188,6 +188,9 @@ addeventlistenr()
 
 single thread and multi thread
 
+Full-Duplex
+	both server side and client side can sends data at time
+
 
 
 
