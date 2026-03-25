@@ -194,6 +194,8 @@ Full-Duplex
 
 Async Await
 
+promise
+
 
 
 
